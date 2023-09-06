@@ -13,4 +13,5 @@
     <li>git add</li>
     <li>git commit -m "mensaje"</li>
     <li>git push -u origin main</li>
+    <li>git status</li>
 </ol>
